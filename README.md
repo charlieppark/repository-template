@@ -56,7 +56,7 @@ If there's any need for support or feedback, feel free to add issues in the corr
 
 Or you can freely contact via email:
 
-박찬호 : chanho.park@dankook.ac.kr
+박찬호 : charlieppark@kaist.ac.kr
 
 ---
 
